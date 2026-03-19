@@ -1,7 +1,7 @@
 # Review Web Application
 
 ## Overview
-This is a web application designed for users to submit and read reviews about products or services. The application aims to provide an easy and efficient way for users to express their opinions and for others to make informed decisions based on aggregated user feedback.
+This is a application created by The Prabesh!! For sharing the experience of your Dev Journey!!🙏
 
 ## Features
 - User authentication (login/signup)
