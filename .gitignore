@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+.npmrc
+package-lock.json
+
+# Logs
+logs/
+mongodb.log
+npm-debug.log*
+/yarn-debug.log*
+/yarn-error.log*
+
+# Runtime data
+pids/
+*.seed
+*.pid
+
+# Optional npm cache directory
+.npm/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
